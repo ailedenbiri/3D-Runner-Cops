@@ -1,0 +1,5 @@
+C:/Users/mevo/Desktop/projeler/My project/.utmp/RelWithDebInfo/6e5o4o2g/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/mevo/Desktop/projeler/My project/.utmp/RelWithDebInfo/6e5o4o2g/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/mevo/Desktop/projeler/My project/.utmp/RelWithDebInfo/6e5o4o2g/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/mevo/Desktop/projeler/My project/.utmp/RelWithDebInfo/6e5o4o2g/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/mevo/Desktop/projeler/My project/.utmp/RelWithDebInfo/6e5o4o2g/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

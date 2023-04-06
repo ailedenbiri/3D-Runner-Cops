@@ -1,0 +1,2 @@
+ninja: Entering directory `C:\Users\mevo\Desktop\projeler\My project\.utmp\RelWithDebInfo\6e5o4o2g\armeabi-v7a'
+ninja: no work to do.

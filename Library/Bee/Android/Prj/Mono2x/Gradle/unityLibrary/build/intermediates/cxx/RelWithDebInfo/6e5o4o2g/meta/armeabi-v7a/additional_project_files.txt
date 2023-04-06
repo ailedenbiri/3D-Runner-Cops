@@ -1,0 +1,2 @@
+C:\Users\mevo\Desktop\projeler\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp\FramePacing
+C:\Users\mevo\Desktop\projeler\My project\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\src\main\cpp\FramePacing\UnitySwappyWrapper.h
